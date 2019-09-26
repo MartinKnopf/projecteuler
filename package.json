@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "mocha": "^6.2.0"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.6.2"
   }
 }
